@@ -2,7 +2,7 @@
 
 ### Back-end
 
-- [] Class Diagram
-- [] Models
-- [] DataBase
-- [] API
+- [ ] Class Diagram
+- [ ] Models
+- [ ] DataBase
+- [ ] API
